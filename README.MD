@@ -24,3 +24,17 @@ Youtuba [Max Codez](https://www.youtube.com/channel/UCHlD-HtkMZIjq12b-TpVPew)'da
 ### Gereksinimler
 
 [Python 3.7](https://www.python.org/downloads/) ve sonrası sürümleri indirmiş olmalısınız.
+
+# German/Deutsche
+
+### Warnung
+
+Ich bekomme auf youtube [Max Codez] (https://www.youtube.com/channel/UCHlD-HtkMZIjq12b-TpVPew). Ich bin nicht verantwortlich für illegale Verwendung.
+
+### Verwenden von
+
+Fügen Sie Ihre Wörter zur Datei **spamwords.cfg** hinzu. Öffnen Sie das Powershell-Fenster mit Shift + MBLeft und geben Sie dort `py spammer.py` ein. Klicken Sie dort, wo Sie den Beitrag eingeben möchten, und fertig.
+
+### Bedarf
+
+Benötigt [Python 3.7] (https://www.python.org/downloads/) und höher. (Klicken und herunterladen auf der offiziellen Python-Website)
