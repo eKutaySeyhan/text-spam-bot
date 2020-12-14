@@ -37,4 +37,4 @@ Fügen Sie Ihre Wörter zur Datei **spamwords.cfg** hinzu. Öffnen Sie das Power
 
 ### Bedarf
 
-Benötigt [Python 3.7] (https://www.python.org/downloads/) und höher. (Klicken und herunterladen auf der offiziellen Python-Website)
+Benötigt [Python 3.7](https://www.python.org/downloads/) und höher. (Klicken und herunterladen auf der offiziellen Python-Website)
