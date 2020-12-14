@@ -29,7 +29,7 @@ Youtuba [Max Codez](https://www.youtube.com/channel/UCHlD-HtkMZIjq12b-TpVPew)'da
 
 ### Warnung
 
-Ich bekomme auf youtube [Max Codez] (https://www.youtube.com/channel/UCHlD-HtkMZIjq12b-TpVPew). Ich bin nicht verantwortlich für illegale Verwendung.
+Ich bekomme auf youtube [Max Codez](https://www.youtube.com/channel/UCHlD-HtkMZIjq12b-TpVPew). Ich bin nicht verantwortlich für illegale Verwendung.
 
 ### Verwenden von
 
